@@ -17,7 +17,7 @@
 
 
 
-> [!GRID cols=2]
+> [!GRID]
 > ### Card 1
 > Fast low-token content
 > 
