@@ -14,3 +14,10 @@
 
 > [!CAUTION]
 > Negative potential consequences of an action.
+
+
+
+> [!GRID cols=2]
+> ### Card 1
+> Fast low-token content
+> 
